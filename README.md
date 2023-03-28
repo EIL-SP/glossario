@@ -6,4 +6,4 @@ Um glossário de linguagem digital
 
 Categorias
 
-[Tipos de arquivo]
+[Formatos de arquivo](formatos-de-arquivo.md)
