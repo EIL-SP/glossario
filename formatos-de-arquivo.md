@@ -4,7 +4,8 @@
 
 - *Binário* vs *legível*
 - *aberto* vs *proprietário*
-- *bitmap* vs *vetorial*
+- `imagens`: `bitmap` vs `vetorial`
+- compressão: `compressão com perda` vs `compressão sem perda`)
 
 ## Termos
 
