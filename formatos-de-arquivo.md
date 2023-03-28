@@ -9,3 +9,5 @@
 ## Termos
 
 - *SVG* Scalable Vector Graphics `vetorial`
+
+- *py*  `.py` Python source code
